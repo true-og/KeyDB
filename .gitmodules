@@ -1,6 +1,6 @@
 [submodule "deps/rocksdb"]
 	path = deps/rocksdb
-	url = https://github.com/facebook/rocksdb.git
+	url = https://git.trueog.net/upstream/rocksdb
 [submodule "deps/depot_tools"]
 	path = deps/depot_tools
-	url = https://chromium.googlesource.com/chromium/tools/depot_tools.git
+	url = https://git.trueog.net/upstream/depot_tools
